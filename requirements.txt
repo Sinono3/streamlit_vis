@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+plotly
+torch
+torchvision
+torchaudio
+transformer-lens
